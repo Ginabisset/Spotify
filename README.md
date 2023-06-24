@@ -1,4 +1,4 @@
-# Spotify
+# Spotify Playlist Maker based on Billboard Top 100 at a Date 
 Takes a date input in the format 'YYYY-MM-DD', web scrapes the Billboard 100 songs at that date and creates a Spotify playlist containing those songs 
 
 Please first create a Spotify developer app here:
