@@ -12,6 +12,6 @@ os.environ['SPOTIPY_REDIRECT_URI'] # your redirect URI when setting up the Spoti
 os.environ['USER_ID'] # your Spotify username (str)
 
 
-To run the code, please use the spotify.py file. 
+To run the code, please use the main.py file. 
 
 Also, please note, if the search query cannot find the song it will skip it. 
